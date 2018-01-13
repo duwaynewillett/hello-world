@@ -1,0 +1,75 @@
+Term                                                                                                                            	Code           	Retired
+Abdominal aortic aneurysm                                                                                                       	233985008      	No     
+Abdominal aortic aneurysm 3.0 to 5.0 centimeters in female                                                                      	450771000124104	No     
+Abdominal aortic aneurysm 3.0 to 5.5 centimeters in male                                                                        	450781000124101	No     
+Abdominal aortic aneurysm greater than 5.0 centimeters in female                                                                	450791000124103	No     
+Abdominal aortic aneurysm greater than 5.5 centimeters in male                                                                  	450801000124102	No     
+Abdominal aortic aneurysm stenting                                                                                              	307701005      	No     
+Abdominal aortic aneurysm without rupture                                                                                       	75878002       	No     
+Aneurysm of infrarenal abdominal aorta                                                                                          	444569004      	No     
+Aneurysm of suprarenal aorta                                                                                                    	426270006      	No     
+Aorto-iliac bifurcation graft for repair of aneurysm                                                                            	405529005      	No     
+Aorto-profunda bifurcation bypass with prosthesis                                                                               	405486002      	No     
+Aorto-profunda bifurcation graft for repair of aneurysm                                                                         	405521008      	No     
+Dissection of abdominal aorta                                                                                                   	408666009      	No     
+Dissection of thoracoabdominal aorta                                                                                            	713029000      	No     
+Elective repair of infrarenal abdominal aortic aneurysm                                                                         	698995008      	No     
+Elective repair of suprarenal abdominal aortic aneurysm                                                                         	698996009      	No     
+Emergency repair of ruptured infrarenal abdominal aortic aneurysm                                                               	698992006      	No     
+Emergency repair of ruptured suprarenal abdominal aortic aneurysm                                                               	698994007      	No     
+Emergency replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to femoral artery                              	175283003      	No     
+Emergency replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to iliac artery                                	265492000      	No     
+Endovascular repair of abdominal aortic aneurysm                                                                                	444588006      	No     
+Endovascular repair of abdominal aortic aneurysm using fluoroscopic guidance                                                    	699114003      	No     
+Endovascular repair of abdominal aortic aneurysm with insertion of visceral extension prosthesis                                	438361005      	No     
+Enlarging abdominal aortic aneurysm                                                                                             	425771001      	No     
+Familial abdominal aortic aneurysm                                                                                              	715364001      	No     
+Fluoroscopic angiography of abdominal aorta and insertion of stent                                                              	419740003      	No     
+Fluoroscopic angiography of abdominal aorta using contrast with insertion of drug eluting stent                                 	432030003      	No     
+Fluoroscopic angiography of abdominal aorta using contrast with insertion of fenestrated bifurcated stent graft                 	433806009      	No     
+Fluoroscopic angiography of abdominal aorta using contrast with insertion of fenestrated tube stent graft                       	434376005      	No     
+Fluoroscopic angiography of abdominal aorta using contrast with insertion of stent                                              	431819002      	No     
+Fluoroscopic angiography of abdominal aorta using contrast with insertion of tube stent graft                                   	434377001      	No     
+Fluoroscopic angiography of abdominal aorta with insertion of stent graft                                                       	429805005      	No     
+Hand-assisted laparoscopic repair of aneurysm of abdominal aorta                                                                	700418003      	No     
+History of endovascular stent graft for repair of abdominal aortic aneurysm                                                     	139941000119104	No     
+History of repair of aneurysm of abdominal aorta                                                                                	429205001      	No     
+History of repair of aneurysm of abdominal aorta using endovascular stent graft                                                 	431691000124103	No     
+Inflammatory abdominal aortic aneurysm                                                                                          	314186008      	No     
+Insertion of abdominal aorta stent                                                                                              	233407007      	No     
+Insertion of endovascular stent into aortobiiliac aneurysm                                                                      	438945003      	No     
+Intraoperative fluoroscopic angiography of abdominal aorta and iliac artery with insertion of unilateral aorto-iliac stent graft	431477001      	No     
+Intraoperative fluoroscopic angiography of abdominal aorta with insertion of bifurcated stent graft                             	433589009      	No     
+Intraoperative fluoroscopic angiography of abdominal aorta with insertion of branched bifurcated stent graft                    	433598007      	No     
+Intraoperative fluoroscopic angiography of abdominal aorta with insertion of branched unilateral aortoiliac stent graft         	431879007      	No     
+Intraoperative fluoroscopic angiography of abdominal aorta with insertion of fenestrated bifurcated stent graft                 	433633006      	No     
+Intraoperative fluoroscopic angiography of abdominal aorta with insertion of fenestrated stent graft                            	433596006      	No     
+Intraoperative fluoroscopic angiography of abdominal aorta with insertion of fenestrated unilateral aorto-iliac stent graft     	433796009      	No     
+Intraoperative fluoroscopic angiography of abdominal aorta with insertion of stent graft                                        	431893000      	No     
+Juxtarenal aortic aneurysm                                                                                                      	314185007      	No     
+Leaking abdominal aortic aneurysm                                                                                               	195268001      	No     
+Recurrent abdominal aortic aneurysm                                                                                             	315295003      	No     
+Repair of abdominal aortic aneurysm with insertion of endovascular stent graft                                                  	699667004      	No     
+Repair of aneurysm of abdominal aorta                                                                                           	405525004      	No     
+Repair of aneurysm of abdominal aorta involving iliac vessels with graft                                                        	50075004       	No     
+Repair of aneurysm of abdominal aorta involving visceral vessels with graft                                                     	56834002       	No     
+Repair of aneurysm of abdominal aorta with graft                                                                                	21574003       	No     
+Repair of aneurysm of abdominal aorta with insertion of endovascular stent                                                      	699102006      	No     
+Repair of aneurysm of bifurcation of aorta with insertion of endovascular stent graft                                           	705015009      	No     
+Repair of aneurysm of suprarenal abdominal aorta with insertion of endovascular stent                                           	442125002      	No     
+Repair of aortic aneurysm using bifurcation graft                                                                               	175282008      	No     
+Repair of aortic aneurysm using straight graft                                                                                  	233376001      	No     
+Repair of infrarenal abdominal aortic aneurysm with insertion of endovascular stent                                             	441612006      	No     
+Repair of infrarenal abdominal aortic aneurysm with insertion of endovascular stent graft                                       	429167002      	No     
+Repair of ruptured aneurysm of abdominal aorta involving iliac vessels with graft                                               	28856006       	No     
+Repair of ruptured aneurysm of abdominal aorta with graft                                                                       	23617000       	No     
+Repair of suprarenal aortic aneurysm with insertion of endovascular stent graft                                                 	429706004      	No     
+Replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to femoral artery                                        	175284009      	No     
+Replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to iliac artery                                          	265493005      	No     
+Ruptured abdominal aortic aneurysm                                                                                              	14336007       	No     
+Ruptured suprarenal aortic aneurysm                                                                                             	314184006      	No     
+Thoracoabdominal aortic aneurysm                                                                                                	233984007      	No     
+Thoracoabdominal aortic aneurysm, ruptured                                                                                      	195265003      	No     
+Tube graft abdominal aortic aneurysm - emergency                                                                                	233377005      	No     
+Y graft abdominal Aortic aneurysm                                                                                               	275037003      	No     
+Y graft of abdominal aortic aneurysm - emergency                                                                                	233374003      	No     
